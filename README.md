@@ -1,4 +1,4 @@
-# Sto# 📊 TCS Stock Market Analysis Dashboard
+## 📊 TCS Stock Market Analysis Dashboard
 
 This project is a Power BI report analyzing the historical stock performance of **Tata Consultancy Services (TCS)**. The dashboard presents interactive visualizations and detailed tables to help understand the trends in TCS stock prices over time.
 
