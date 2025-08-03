@@ -36,7 +36,7 @@ This report is designed to support decision-making and provide insights into TCS
 ---
 
 ### 📉 Page 2 – Time-Based Line Charts
-![Time Series]((https://github.com/Aishnalla/Stock-Market-Analysis-Dashboard/blob/main/Page2_TimeSeries.png))
+![Time Series](https://github.com/Aishnalla/Stock-Market-Analysis-Dashboard/blob/main/Page2_TimeSeries.png)
 
 - **Daily Line Chart:** Daily stock performance.
 - **Monthly Line Chart:** Monthly price movements.
