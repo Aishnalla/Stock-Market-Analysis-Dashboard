@@ -58,8 +58,6 @@ This report is designed to support decision-making and provide insights into TCS
 - **Power BI** – Data visualization and report building.
 - **CSV Data Source** – Historical TCS stock prices.
 
----
 
-## 📎 Repository Structure
 
 
