@@ -19,7 +19,7 @@ This report is designed to support decision-making and provide insights into TCS
 ## 📈 Visualizations
 
 ### 🖼️ Page 1 – Market Summary
-![Market Summary](screenshots/Page1_MarketSummary.png)
+![Market Summary](https://github.com/Aishnalla/Stock-Market-Analysis-Dashboard/blob/main/Page1_MarketSummary.png)
 
 - **KPI Tiles**
   - **Tata Open:** 3.28M
@@ -36,7 +36,7 @@ This report is designed to support decision-making and provide insights into TCS
 ---
 
 ### 📉 Page 2 – Time-Based Line Charts
-![Time Series](screenshots/Page2_TimeSeries.png)
+![Time Series]((https://github.com/Aishnalla/Stock-Market-Analysis-Dashboard/blob/main/Page2_TimeSeries.png))
 
 - **Daily Line Chart:** Daily stock performance.
 - **Monthly Line Chart:** Monthly price movements.
@@ -46,7 +46,7 @@ This report is designed to support decision-making and provide insights into TCS
 ---
 
 ### 📋 Page 3 – Data Table
-![Data Table](screenshots/Page3_DataTable.png)
+![Data Table](https://github.com/Aishnalla/Stock-Market-Analysis-Dashboard/blob/main/Page3_DataTable.png))
 
 - **Detailed table** of records by Year, Quarter, Month, Day, and stock metrics.
 - **Totals row** summarizing all data.
